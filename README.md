@@ -2,7 +2,22 @@
 
 -> [Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  Bob Ziroll, haciendo click aca](https://github.com/eugenia1984/react-varios-cursos)
 
-###  <img src="https://img.icons8.com/dusk/30/null/untested.png"/>  Proyecto
+---
+
+## Tecnologías 🛠️
+
+**HTML5**, **CSS3**, **JAVASCRIPT**, **REACT**
+
+---
+
+
+## Demo 📦
+Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
+:arrow_right: [aca](https://scrimba-proyect1.netlify.app/)
+
+---
+
+###  <img src="https://img.icons8.com/dusk/40/null/untested.png"/>  Proyecto
 
 
 ### 1er proyecto: Página estática en React
@@ -29,7 +44,7 @@ Temas que se ven:
 ## :star: Teoria
 
 
-- ¿Como es el layout ?
+- **1 - ¿Como es el layout ?**
 
 Va a tener un rectangulo (Header/Nav) que va a tener a la izquierda el icono y logo y a la derecha el nombre. Luego esta el segundo rectangulo(Main)  que tendra el titulo (```h1```) y la lista desordenada(```ul```). Entocnes seria algo asi:
 
@@ -163,80 +178,20 @@ En ReactDOM.render en vez de llamarla como la funcion se debe llamar como un com
 
 ![image](https://user-images.githubusercontent.com/72580574/200693576-02d63563-22d5-4a19-91f6-f3e88ce157bb.png)
 
-
-
-
-
----
 ---
 
-# Getting Started with Create React App
+## Por favor: 🎁
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Comparte este proyecto con otros 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+* Muchas gracias 🤓.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Notas
 
-### `npm start`
+Agradezco su interés en este Proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y síganme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
