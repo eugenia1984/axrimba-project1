@@ -1,12 +1,18 @@
 ## :star: Primer proyecto del curso de Scrimba con React
 
--> [Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  Bob Ziroll, haciendo click aca](https://github.com/eugenia1984/react-varios-cursos)
+Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  Bob Ziroll, haciendo [click aca](https://github.com/eugenia1984/react-varios-cursos)
 
 ---
 
 ## Tecnologías 🛠️
 
-**HTML5**, **CSS3**, **JAVASCRIPT**, **REACT**
+- <img src="https://img.icons8.com/color/30/null/html-5--v1.png"/> **HTML5**
+
+- <img src="https://img.icons8.com/stickers/30/null/css3.png"/> **CSS3**
+
+- <img src="https://img.icons8.com/color/30/null/javascript--v1.png"/> **JAVASCRIPT**
+
+- <img src="https://img.icons8.com/office/40/null/react.png"/> **REACT**
 
 ---
 
