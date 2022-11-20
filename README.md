@@ -182,7 +182,17 @@ En ReactDOM.render en vez de llamarla como la funcion se debe llamar como un com
 
 ## :star: Asi quedo
 
-![image](https://user-images.githubusercontent.com/72580574/200693576-02d63563-22d5-4a19-91f6-f3e88ce157bb.png)
+DEsktop:
+![image](https://user-images.githubusercontent.com/72580574/202922562-de52be79-8c19-4cda-9364-18d3afc2ccf1.png)
+
+
+Mobil:
+![image](https://user-images.githubusercontent.com/72580574/202922596-a93ab6aa-0613-490b-bdde-5e0005f83903.png)
+
+Esta es la estructura de las carpetas:
+![image](https://user-images.githubusercontent.com/72580574/202922681-add96725-83ac-4b10-9b89-dd4e8f7ca052.png)
+
+-> Se hizo el build y se deployp en Netlify
 
 ---
 
