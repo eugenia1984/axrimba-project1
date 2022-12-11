@@ -20,7 +20,7 @@ Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  
 ## Demo 📦
 
 Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-:arrow_right: [aca](https://scrimba-proyect1.netlify.app/)
+:arrow_right: [Netlify -sin dark / light mode-](https://scrimba-proyect1.netlify.app/)
 
 ---
 
@@ -48,7 +48,7 @@ Temas que se ven:
 
 ---
 
-## :star: Teoria
+## :star: Teoría
 
 
 - **1 - ¿Como es el layout ?**
@@ -181,9 +181,11 @@ En ReactDOM.render en vez de llamarla como la funcion se debe llamar como un com
 
 ---
 
-## :star: Asi quedo
+## :star: Así quedo
 
-DEsktop:
+- Sin versión dark / light mode
+
+Desktop:
 ![image](https://user-images.githubusercontent.com/72580574/202922562-de52be79-8c19-4cda-9364-18d3afc2ccf1.png)
 
 
@@ -193,7 +195,7 @@ Mobil:
 Esta es la estructura de las carpetas:
 ![image](https://user-images.githubusercontent.com/72580574/202922681-add96725-83ac-4b10-9b89-dd4e8f7ca052.png)
 
--> Se hizo el build y se deployp en Netlify
+- Con versión dark / light mode
 
 ---
 
