@@ -1,17 +1,25 @@
 :root {
-  --bg-gray: #282D35;
-  --txt-white-2: #ffffff;
+  --bg-dark: #373e47;
+  --bg-light: #ebe2e2; 
+  --txt-dark: #000;
+  --txt-white: #ffffff;
   --li-blue: #61DAFB;
 }
 
 main {
   min-height: 90vh;
-  background-color: var(--bg-gray);
+  background-color: var(--bg-light);
   padding: 57px 27px;
-  color: var(--txt-white-2);
+  color: var(--txt-dark);
   background-image: url(./../../assets/logo.svg);
   background-repeat: no-repeat;
   background-position: right 95%;
+}
+
+main.dark {
+  background-image: url(./../../assets/logo.svg); 
+  background-color: var(--bg-dark);
+  color: var(--txt-white);    
 }
 
 @media screen and (max-width: 560px) {

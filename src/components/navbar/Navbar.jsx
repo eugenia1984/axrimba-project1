@@ -1,24 +1,19 @@
 import React from "react";
 import "./navbarstyle.css";
-import logo from './../../assets/logo.svg';
+import logo from "./../../assets/logo.svg";
 
-function Navbar( { headline, text} ) {
+function Navbar({ headline, darkMode, toggleDarkMode }) {
   return (
-    <nav>
-      <img 
-        className="nav-icon" 
-        src={logo} 
-        alt="logo de React" 
-        width="30px" 
-        />
-      <h3   
-        className="nav-logo-text">
-        { headline }
-      </h3>
-      <h4   
-        className="nav-title">
-        { text }
-      </h4>
+    <nav className={darkMode ? "dark": ""}>
+      <img className="nav-icon" src={logo} alt="logo de React" width="30px" />
+      <h3 className="nav-logo-text">{headline}</h3>
+      <div className="toggler">
+        <p className="toggler-light">Light</p>
+        <div className="toggler-slider" onClick={toggleDarkMode}>
+          <div className="toggler-slider-circle"></div>
+        </div>
+        <p className="toggler-dark">Dark</p>
+      </div>
     </nav>
   );
 }

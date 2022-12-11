@@ -1,4 +1,4 @@
-## :star: Primer proyecto del curso de Scrimba con React
+## :star: Primer y cuarto proyecto del curso de Scrimba con React
 
 Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  Bob Ziroll, haciendo [click aca](https://github.com/eugenia1984/react-varios-cursos)
 
@@ -20,7 +20,7 @@ Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  
 ## Demo 📦
 
 Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
-:arrow_right: [Netlify -sin dark / light mode-](https://scrimba-proyect1.netlify.app/)
+:arrow_right: [Netlify sin dark/light mode](https://scrimba-proyect1.netlify.app/) y [Netlify con dark/light mode](https://scrimba-proyect4.netlify.app/)
 
 ---
 
@@ -194,8 +194,9 @@ Mobil:
 
 ![image](https://user-images.githubusercontent.com/72580574/202922596-a93ab6aa-0613-490b-bdde-5e0005f83903.png)
 
-Esta es la estructura de las carpetas:
-![image](https://user-images.githubusercontent.com/72580574/202922681-add96725-83ac-4b10-9b89-dd4e8f7ca052.png)
+
+
+### 4to proyecto: Página estática en React con dark/light mode
 
 - Con versión dark / light mode
 

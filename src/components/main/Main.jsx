@@ -3,12 +3,10 @@ import "./mainstyle.css";
 import Title from "./Title.jsx";
 import List from "./List";
 
-function Main( { headline }) {
+function Main({ headline, darkMode }) {
   return (
-    <main>
-      <Title 
-        name={ headline } 
-      />
+    <main className={darkMode ? "dark" : ""}>
+      <Title name={headline} />
       <List />
     </main>
   );
