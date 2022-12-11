@@ -186,16 +186,28 @@ En ReactDOM.render en vez de llamarla como la funcion se debe llamar como un com
 - Sin versión dark / light mode
 
 Desktop:
+
 ![image](https://user-images.githubusercontent.com/72580574/202922562-de52be79-8c19-4cda-9364-18d3afc2ccf1.png)
 
 
 Mobil:
+
 ![image](https://user-images.githubusercontent.com/72580574/202922596-a93ab6aa-0613-490b-bdde-5e0005f83903.png)
 
 Esta es la estructura de las carpetas:
 ![image](https://user-images.githubusercontent.com/72580574/202922681-add96725-83ac-4b10-9b89-dd4e8f7ca052.png)
 
 - Con versión dark / light mode
+
+Light Mode
+
+![image](https://user-images.githubusercontent.com/72580574/206919841-b2debd5e-7c8e-43a3-bb18-8de1eb4f5798.png)
+
+
+Dark Mode
+
+![image](https://user-images.githubusercontent.com/72580574/206919851-4ec2a69f-f9a2-4d0c-9a2c-2fa63d6ec203.png)
+
 
 ---
 
